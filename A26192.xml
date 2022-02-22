@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the tryals of William Ld. Russell, William Hone, John Rouse, and William Blake who took their tryals at the Old-Baley, on the 13th of July, 1683, for high-treason, in conspiring the death of the King, and raising rebellion in the land.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26192</idno>
+            <idno type="STC">Wing A419</idno>
+            <idno type="STC">ESTC R21329</idno>
+            <idno type="EEBO-CITATION">12226494</idno>
+            <idno type="OCLC">ocm 12226494</idno>
+            <idno type="VID">56532</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26192)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56532)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 621:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the tryals of William Ld. Russell, William Hone, John Rouse, and William Blake who took their tryals at the Old-Baley, on the 13th of July, 1683, for high-treason, in conspiring the death of the King, and raising rebellion in the land.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Grantham,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Russell, William, --  Lord, 1639-1683, --  defendant.</term>
+               <term>Hone, William, d. 1683, --  defendant.</term>
+               <term>Rouse, John, d. 1683, --  defendant.</term>
+               <term>Blake, William, 17th cent, --  defendant.</term>
+               <term>Popish Plot, 1678.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:56532:1" rendition="simple:additions"/>
+            <head>An Account of the TRYALS OF William Ld. Ruſſell, <hi>William Hone, John Rouſe,</hi> and <hi>William Blake,</hi> who took their Tryals at the <hi>Old-Baley,</hi> on the 13th of <hi>July,</hi> 1683, for High-Treaſon, in Conſpiring the Death of the King, and raiſing Rebellion in the Land.</head>
+            <argument>
+               <p>Entred according to ORDER.</p>
+            </argument>
+            <p>THE Lord <hi>Ruſſell</hi> on the 13th Inſtant came upon his Try<g ref="char:EOLhyphen"/>al, and after ſome debates relating to the Legality of the Jury, in relation to their not being Free-holders, and that diſpute being over ruled, the Court proceeded to Try him upon the Indictment of High-Treaſon, to which he had pleaded, <hi>Not Guilty;</hi> upon which the Kings Council re<g ref="char:EOLhyphen"/>lated to the Jury the ſeveral paſſages that had happened, and declared the nature of the Crime; which was not only bent againſt the Life of the King, but againſt all his good Subjects, or to that purpoſe: Then the Evidence were called and Sworn, who declared that the Lord <hi>Ruſ<g ref="char:EOLhyphen"/>ſell</hi> had been at ſeveral places or meetings, where together with the Duke of <hi>Monmouth,</hi> the Lord <hi>Grey,</hi> Sir <hi>Thomas Armſtrong, Fergaſon</hi> the Anabaptiſt Parſon and others, had conſpired to Levy War, Raiſe Re<g ref="char:EOLhyphen"/>bellion, and to compaſs the Death of His Majeſty; and that divers of their faction were intereſſed in the Conſpiracy, and were in order to a general Riſing to be in a readineſs, and ſome of them to provide men, eſpecially Mr. <hi>Trenchard</hi> of <hi>Summerſetſhire,</hi> who was to raiſe a conſider<g ref="char:EOLhyphen"/>able Body of Horſe and Foot about <hi>Taunton;</hi> but failing to perform his promiſe, the buſineſs was put off contrary to the expectation of the Earl of <hi>Shaftsbury,</hi> who, as it was Sworn, did declare, that he had Nine or Ten thouſand Men at his beck, all brisk Boys; who would riſe and ſeize upon the City, and that after they were better ſtrengthen'd, to Sally out and ſeize upon the Court; that divers conſiderations were had how to manage the deſign, and that the Government ſhould be Sub<g ref="char:EOLhyphen"/>verted. A Paper in the nature of a Declaration being for that purpoſe provided, and read at a Tavern in <hi>Lumbard-ſtreet,</hi> inſinuating divers Grie<g ref="char:EOLhyphen"/>vances
+<pb facs="tcp:56532:2"/>of the Nation, to incite the people the better to approve of the Conſpiracy; and that after the Death of the Earl of <hi>Shaftsbury,</hi> who upon diſcontent and fear of diſcovery, withdrew himſelf into <hi>Holland,</hi> they framed amongſt them a Councel of ſix perſons to mannage the Plot, and that the Lord <hi>Ruſſel</hi> was one of the Six, and that they had been often in conſult, how ſtill to carry on the deſign, ſome being of opinion, that the inſurrection ſhould be made in <hi>London,</hi> others in the Country; and the latter reaſon was for that, If the Inſurrection was made in the Countrey, the King muſt ſend his Guards to repulſe them, when in the mean time the City left as it were defenceleſs, ſhould be ſeized by ſuch as were in readineſs; and the better to ſtrengthen them<g ref="char:EOLhyphen"/>ſelves, they had given a Meſſenger appointed by the Conſult Sixty Guinies to go into <hi>Scotland,</hi> to ſtir up the diſcontented Gentry of that Kingdom to make Inſurrections there; and that a fond of money was to be raiſed to ſupply neceſſary charges, To this Evidence the Lord <hi>Ruſſel</hi> put divers Interrogatories, and produced many Lords and Eminent Clergy-men, to give Teſtimony of his Life and Converſation, uſing many Arguments to extenuate the Crime: But after the various Debates, the Lord Chief Juſtice having repeated what had occurred up<g ref="char:EOLhyphen"/>on Evidence, to the Jury that found him guilty, <hi>William Hone</hi> came upon his Tryal, for Traiterouſly conſpiring to kill the King; and for that purpoſe procuring Arms. The firſt he confeſſed, but denied the latter: but it appearing by Witneſſes, that he was to be one of thoſe that were to have aſſaſſinated the King in his return from <hi>New-Market;</hi> and for that purpoſe had made proviſion for Horſe and Arms, and had at Coffee houſes, and other places, confeſt the Treaſonable Deſign he had to kill the King, and that he firſt engaged himſelf in the dire Conſpi<g ref="char:EOLhyphen"/>racy, at the inſtance of <hi>Richard Goodenough;</hi> and the like Treaſon being proved againſt him by poſitive Evidence, he was convicted of the Treaſonable Conſpiracy.</p>
+            <p>
+               <hi>John Rouſe</hi> having pleaded <hi>Not Guilty,</hi> upon his Arraignment, was Tryed for <hi>High Treaſon,</hi> for conſpiring the Death of the King, and the Government to ſubvert, being in divers Conſults for the carrying on the Deſign, being very active on all occaſions to promote the Helliſh Deſign, which himſelf could not greatly deny; wherefore upon full Evidence he was found Guilty of Treaſon.</p>
+            <p>Captain <hi>Blake</hi> having a Bill of Treaſon found againſt him for de<g ref="char:EOLhyphen"/>ſigning the Death of the King, the chief charge againſt him was, a de<g ref="char:EOLhyphen"/>ſign be had to take the <hi>Tower</hi> in, to effect which, the Witneſs declared that he provided Shipping and Guns to batter the <hi>Tower,</hi> and <hi>Granadoes</hi> was to be thrown into it to make breaches to enter, divers Seamen being deſigned in a readineſs for that purpoſe: But the poſitive matter of fact being ſworn to but by one Witneſs, though another gave cir<g ref="char:EOLhyphen"/>cumſtantial Evidence, the Jury acquitted the Priſoner.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. Grantham.</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
